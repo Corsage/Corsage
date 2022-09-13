@@ -1,19 +1,11 @@
 <img align="left" src="https://ra.tcp.direct/export/mob/9420022_attack1.svg" />
-<h2> <b>Jay Chowdhary</b> - Software Engineer </h2>
+<pre>🎕 Hi, I'm Jay C. 👋 I have a passion for building and breaking things.</pre>
+<br/>
+
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Corsage)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Corsage)
+
+[![Corsage's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corsage&count_private=true)](https://github.com/Corsage)
 
 
 
-<!--
-**Corsage/Corsage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
