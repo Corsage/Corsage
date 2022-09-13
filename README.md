@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align="left" src="https://ra.tcp.direct/export/mob/9420022_attack1.svg" />
+<h2> <b>Jay Chowdhary</b> - Software Engineer </h2>
+
+
 
 <!--
 **Corsage/Corsage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
